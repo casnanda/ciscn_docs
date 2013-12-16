@@ -3,6 +3,8 @@ ciscn_docs
 
 <strong>如果有问题咨询，请直接联系我本人： alsotang@gmail.com 。请勿打扰我们团队中的其他成员。谢谢配合。</strong>
 
+作品实例： https://phinx.herokuapp.com/
+
 ## 初衷
 
 这个 GitHub repo，是我们团队在参加 2013 年第六届全国大学生信息安全竞赛时的各种文档资料。在该次比赛中，我们团队获得了一等奖。
